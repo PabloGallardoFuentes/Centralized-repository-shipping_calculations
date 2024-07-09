@@ -1,5 +1,4 @@
  # Here is a new update by PabloGallardoFuentes
-# Here is another update by PabloGallardoFuentes
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
